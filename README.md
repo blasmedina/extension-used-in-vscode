@@ -1,7 +1,6 @@
 # Extension Used In Visual Studio Code
 
 - [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [Angular Snippets (Version 11)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 - [Auto Rename](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
